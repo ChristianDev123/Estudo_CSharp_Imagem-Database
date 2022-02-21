@@ -1,0 +1,21 @@
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe.config
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Login.resources
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Properties.Resources.resources
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.exe
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe.config
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Login.resources
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Properties.Resources.resources
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.exe
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Form_cadastro.resources
