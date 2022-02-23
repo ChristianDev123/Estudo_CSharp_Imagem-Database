@@ -1,0 +1,46 @@
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe.config
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Login.resources
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Properties.Resources.resources
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.exe
+C:\Users\Christian\source\repos\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe.config
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\bin\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Login.resources
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Properties.Resources.resources
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.exe
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao por imagens.pdb
+C:\Users\Christian\Desktop\Verificacao por imagens\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Form_cadastro.resources
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe.config
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\Verificacao por imagens.exe
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\Verificacao por imagens.pdb
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\MySql.Data.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\Google.Protobuf.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\ZstdNet.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\System.Memory.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\System.Buffers.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\bin\Debug\MySql.Data.xml
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.exe.config
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Login.resources
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Form_cadastro.resources
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao_por_imagens.Properties.Resources.resources
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.csproj.CopyComplete
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.exe
+C:\Users\chris\OneDrive\Área de Trabalho\Uso_imagem_BD_C--main\Verificacao por imagens\obj\Debug\Verificacao por imagens.pdb
